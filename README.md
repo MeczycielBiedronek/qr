@@ -1,3 +1,5 @@
+# React text to QR code
+
 # Getting Started
 
 This project is a simple React app changing the input text into QR Code JPG graphic.
